@@ -13,7 +13,7 @@
 - Dicoding [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/1OP85NK9VPQK)
 - Dicoding [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/JLX1L25OGX72)
 - Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/ERZRMJY42PYV)
-- Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/EYX476O1JXDL)
+- Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/1RXYO0G1KPVM)
 ### Cloud (AWS & Google Cloud Platform)
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/L4PQ31852PO1)
 - Dicoding [Belajar Dasar Google Cloud](https://www.dicoding.com/certificates/JLX1L4R4JX72)
