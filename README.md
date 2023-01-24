@@ -1,6 +1,12 @@
 <h1 align="center">Hi everyone! My name is Hanz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
+## Tech Stack
+<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
+<a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R logo.svg" /></a>
+<a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
+<br>
+
 ## Certifications
 ### Machine Learning Path Dicoding
 - Dicoding [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JLX1L7EVJX72)
