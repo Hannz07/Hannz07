@@ -1,6 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi everyone! I'm Hanz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+
+## Certifications
+- Dicoding [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JLX1L7EVJX72)
+- Dicoding [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/1OP85NK9VPQK)
+- Dicoding [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/JLX1L25OGX72)
+- Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/ERZRMJY42PYV)
+- Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/EYX476O1JXDL)
 
 <!--
+### Hi there 👋
 **Hannz07/Hannz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
