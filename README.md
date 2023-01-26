@@ -13,7 +13,7 @@ I'm a fresh graduate from IPB University, majoring in Agro-industrial Engineerin
 <p align="left">
 <a href="https://github.com/Hannz07">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hannz07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hannz07&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hannz07&langs_count=8&theme=dark"/>
 </a>
 </p>
 
