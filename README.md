@@ -9,6 +9,14 @@ I'm a fresh graduate from IPB University, majoring in Agro-industrial Engineerin
 <a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
 <br>
 
+## Github Statistics
+<p align="left">
+<a href="https://github.com/Hannz07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hannz07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hannz07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Certifications
 ### Machine Learning Path Dicoding
 - Dicoding [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JLX1L7EVJX72)
