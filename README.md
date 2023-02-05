@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! My name is Hanz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About Me
-I’m a fresh graduate from IPB University, majoring in Agro-industrial Engineering. While studying, I was interested in the application of data science in industry, especially in agriculture. This interest led me to become an assistant in various college-related courses. This experience honed my communication skills, teamwork, time management, and ability to analyze data. To improve my data science skill, I also participated in various programs from trusted institutions such as data analytics and operations boot camp, google data analytics specialization, and machine learning developer.
+I’m a fresh graduate from IPB University, majoring in Agro-industrial Engineering. While studying, I was interested in the application of data science, IoT, cloud, and ERP in industry. This interest led me to become an assistant in various college-related courses. This experience honed my communication skills, teamwork, time management, and ability to analyze data. To improve my data science skill, I also participated in various programs from trusted institutions such as data analytics and operations boot camp, google data analytics specialization, and machine learning developer.
 
 ## Tech Stack
 <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
