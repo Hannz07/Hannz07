@@ -25,6 +25,7 @@ I’m a fresh graduate from IPB University, majoring in Agro-industrial Engineer
 - Dicoding [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/JLX1L25OGX72)
 - Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/ERZRMJY42PYV)
 - Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/1RXYO0G1KPVM)
+- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1OP85NNY1PQK)
 ### Cloud (AWS & Google Cloud Platform)
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/L4PQ31852PO1)
 - Dicoding [Belajar Dasar Google Cloud](https://www.dicoding.com/certificates/JLX1L4R4JX72)
