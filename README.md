@@ -9,7 +9,7 @@ I’m a fresh graduate from IPB University, bachelor of Engineering. While study
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
 <br>
-
+<!--
 ## Github Statistics
 <p align="left">
 <a href="https://github.com/Hannz07">
@@ -17,7 +17,7 @@ I’m a fresh graduate from IPB University, bachelor of Engineering. While study
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hannz07&langs_count=8&theme=dark"/>
 </a>
 </p>
-
+-->
 ## Certifications
 ### Machine Learning Path Dicoding
 - Dicoding [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JLX1L7EVJX72)
