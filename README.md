@@ -4,10 +4,12 @@
 A passionate learner who has experience learning and working in data science with an engineering education background and have a strong interest in working in field of data science. Skilled in data analytics and machine learning with knowledge in PostgreSQL, BigQuery, Python, Tableau, and Looker Studio. I’m eager to contribute my analytical skills and collaborative mindset to a dynamic team. I am dedicated to advancing in the field of data science while actively engaging in meaningful projects that drive innovation and decision making.
 
 ## Tech Stack
-<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
-<a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R logo.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
+<a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" /></a>
+<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/2560px-Postgresql_elephant.svg.png" /></a>
+<a href="https://cloud.google.com/bigquery"><img align="left" alt="Looker Studio" title="Looker Studio" width="100px" src="https://vectorseek.com/wp-content/uploads/2023/09/Google-Big-Query-Logo-Vector.svg-.png" /></a>
+<a href="https://lookerstudio.google.com/"><img align="left" alt="Looker Studio" title="Looker Studio" width="45px" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" /></a>
+<a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="40px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
 <br>
 <!--
 ## Github Statistics
@@ -18,6 +20,7 @@ A passionate learner who has experience learning and working in data science wit
 </a>
 </p>
 -->
+<!--
 ## Certifications
 ### Machine Learning Path Dicoding
 - Dicoding [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/JLX1L7EVJX72)
@@ -31,7 +34,7 @@ A passionate learner who has experience learning and working in data science wit
 - Dicoding [Belajar Dasar Google Cloud](https://www.dicoding.com/certificates/JLX1L4R4JX72)
 ### Google Data Analytics Specialization
 - Coursera [Sertifikat Analitik Data Professional Google](https://www.coursera.org/account/accomplishments/specialization/certificate/UB8Y3JDAQ33V)
-
+-->
 <!--
 - Coursera [Dasar-dasar Analitik Data: Data, Data di Mana-mana](https://www.coursera.org/account/accomplishments/certificate/LL6LN4KESCFG)
 - Coursera [Ajukan Pertanyaan untuk Mengambil Keputusan Berdasarkan Data](https://www.coursera.org/account/accomplishments/certificate/JNN6J868PENL)
