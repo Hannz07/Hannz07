@@ -11,6 +11,9 @@ A passionate learner who has experience learning and working in data science wit
 <a href="https://lookerstudio.google.com/"><img align="left" alt="Looker Studio" title="Looker Studio" width="45px" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" /></a>
 <a href="https://www.tableau.com/"><img align="left" alt="Tableau" title="Tableau" width="40px" src="https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png" /></a>
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hannz07&label=Profile%20views&color=0e75b6&style=flat" alt="Hannz07" /> </p>
+
 <!--
 ## Github Statistics
 <p align="left">
